@@ -1,0 +1,53 @@
+.Section1{
+    background-image: url('/public/section1bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 795px;
+    max-width: 1512px;
+
+
+}
+.presh img{
+    height: 130px;
+    width: 920px;
+    margin-left: 65px;
+    margin-top: 24px;
+    object-fit: contain;
+
+}
+.hello{
+    height: 66px;
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 792px;
+}
+.hello h3{
+   
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.hello p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 1px;
+    text-align: left;
+}
+.hello button{
+    background: none;
+    color: #F4F4F4;
+    border: 1px solid #F4F4F4;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 1px;
+    text-align: left;
+
+}
