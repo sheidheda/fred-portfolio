@@ -2,7 +2,7 @@
     background-image: url('/public/section1bg.png');
     background-size: cover;
     background-repeat: repeat;
-    height: 795px;
+    height: 895px;
   
 
 
@@ -49,4 +49,8 @@
     letter-spacing: 1px;
     text-align: left;
     cursor: pointer;
+}
+.footnav-ting{
+    margin-top: 250px;
+    
 }

@@ -1,0 +1,15 @@
+.Footnav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: -2%;
+    padding: 45px 65px;
+}
+.ft-left ul{
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    text-decoration: underline;
+    cursor: pointer;
+   
+}
